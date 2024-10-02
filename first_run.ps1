@@ -3,3 +3,4 @@ python -m venv venv
 python.exe -m pip install --upgrade pip
 pip install -r requirements.txt
 pip freeze > requirements.txt
+Move-Item .\.gitignore_ph .\.gitignore

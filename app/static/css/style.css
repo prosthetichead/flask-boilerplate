@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+header pre {
+font-size: max(0.2rem, 1vmin);
+}
+.dev { color: #FFD700; } 
+.by { color: #23c1f1; }  
+.ash { color: #e08c47; } 
+.com { color: #0ce70c; } 
+.dot { color: #ffffff; }
